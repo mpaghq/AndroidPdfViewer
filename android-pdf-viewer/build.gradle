@@ -35,7 +35,7 @@ java {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.mpaghq.androidpdfviewer'
+            groupId = 'com.github.zacharee'
             artifactId = 'AndroidPdfViewer'
             version = libraryVersion
 
